@@ -1,2 +1,6 @@
 server:
   port: 10001
+
+secrets:
+  notification-service:
+    password: '{cipher}dc35e82a4988900ca8e1ac206186cecc20e5b9ef28debb3d66ecd87ff4885e61'
